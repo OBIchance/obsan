@@ -1,4 +1,4 @@
-baseURL = 'https://OBIchance.github.io/obsan.git/'
+baseURL = "https://www.obsanmuzemil.com/"
 languageCode = 'en-us'
 title = 'Obsan'
 theme = 'PaperMod'
