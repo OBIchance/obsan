@@ -36,8 +36,11 @@ jobs:
           cp -R public/* ${GITHUB_WORKSPACE}/built-site/
           cd ${GITHUB_WORKSPACE}/built-site
           git add .
-          git config user.name 'dhij'
-          git config user.email 'davidhwang.ij@gmail.com'
-          git commit -m 'Updated site'
-          git push
-
+          git config user.name 'OBIchance'
+          git config user.email 'obinrue@gmail.com'
+          if git diff-index --quiet HEAD; then
+            echo "No changes to commit"
+          else
+            git commit -m 'Updated site'
+            git push
+          fi
