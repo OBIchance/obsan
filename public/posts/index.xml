@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Obsan Muzemil</title>
-    <link>https://www.obsanmuzemil.com/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Obsan Muzemil</description>
     <generator>Hugo -- 0.131.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Aug 2024 18:15:01 -0500</lastBuildDate>
-    <atom:link href="https://www.obsanmuzemil.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cert</title>
-      <link>https://www.obsanmuzemil.com/posts/cert/</link>
+      <link>http://localhost:1313/posts/cert/</link>
       <pubDate>Sat, 10 Aug 2024 18:15:01 -0500</pubDate>
-      <guid>https://www.obsanmuzemil.com/posts/cert/</guid>
+      <guid>http://localhost:1313/posts/cert/</guid>
       <description>My Certifications You can view all of my certifications on Credly by visiting the following link:
 View my Credly profile</description>
     </item>
     <item>
       <title>Htb</title>
-      <link>https://www.obsanmuzemil.com/posts/htb/</link>
+      <link>http://localhost:1313/posts/htb/</link>
       <pubDate>Fri, 09 Aug 2024 19:47:07 -0500</pubDate>
-      <guid>https://www.obsanmuzemil.com/posts/htb/</guid>
+      <guid>http://localhost:1313/posts/htb/</guid>
       <description>Homelab Project # List all files in a directory ls -la # Change directory cd /path/to/directory # Display the current directory pwd ### 3. **Code Block for PowerShell Commands** Similarly, for PowerShell commands, specify the language as `powershell`: ```markdown ```powershell # Get the list of processes Get-Process # List files in a directory Get-ChildItem -Path C:\ # Display system information Get-ComputerInfo ### 4. **Using Hugo&amp;#39;s Highlight Shortcode** You can also use Hugo&amp;#39;s internal highlight shortcode to add these command blocks, which allows you to include additional options like line numbers: #### Linux Commands: ```markdown # List all files in a directory ls -la # Change directory cd /path/to/directory # Display the current directory pwd </description>
     </item>
     <item>
       <title>welcome</title>
-      <link>https://www.obsanmuzemil.com/posts/welcome/</link>
+      <link>http://localhost:1313/posts/welcome/</link>
       <pubDate>Fri, 09 Aug 2024 17:23:55 -0500</pubDate>
-      <guid>https://www.obsanmuzemil.com/posts/welcome/</guid>
+      <guid>http://localhost:1313/posts/welcome/</guid>
       <description>Hello and welcome to my website
 This site is a personal project where I showcase various aspects of my interests, skills, and ongoing projects. Here’s what you can expect to find:
 Cybersecurity Blog: Insights, tips, and tutorials on cybersecurity practices. Home Lab: Documentation and details about my home lab setup, including the technologies I’m experimenting with. Projects: A showcase of the projects I’ve been working on, including open-source contributions and personal initiatives.</description>
