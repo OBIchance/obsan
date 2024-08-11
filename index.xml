@@ -6,8 +6,15 @@
     <description>Recent content on Obsan Muzemil</description>
     <generator>Hugo -- 0.112.4</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Aug 2024 18:15:01 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2024 14:51:59 -0500</lastBuildDate>
     <atom:link href="https://www.obsanmuzemil.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>https://www.obsanmuzemil.com/posts/resume/</link>
+      <pubDate>Sun, 11 Aug 2024 14:51:59 -0500</pubDate>
+      <guid>https://www.obsanmuzemil.com/posts/resume/</guid>
+      <description>SUMMARY Cybersecurity professional with CompTIA Security+ and PenTest+ certifications, graduating with a BS in Cybersecurity. Proficient in Wireshark, Nmap, Elastic Stack, Burp Suite, Hydra, and Microsoft Office. Experienced in computer security, cyber operations, and vulnerability assessment. Interned as a Cybersecurity Risk Assessor, identifying threats and reporting to public sector entities. CERTIFICATIONS CompTIA Security+| CompTIA PenTest+ EDUCATION Metropolitan State University - Bachelor of Science: Cybersecurity GPA 3.7 cum laude| Network , Cryptography, Information security, Cyber Operations, Vulnerability assessment, Operating Systems, PROFESSIONAL EXPERIENCE Cybersecurity Risk Assessor Intern - Metro State Cybersecurity/ MN IT Cyber Security Career Challenge Intern - NcYTE Collegiate Cyber Defense Competition(CCDC) - PROJECTS Student Management System | C | Developed a C-based Student Management System with features for adding, removing, modifying, and displaying student records, utilizing GCC for compilation and Git/GitHub for version control.</description>
+    </item>
     <item>
       <title>Cert</title>
       <link>https://www.obsanmuzemil.com/posts/cert/</link>
@@ -54,14 +61,6 @@ Cybersecurity Blog: Insights, tips, and tutorials on cybersecurity practices. Ho
       <description>Hello and welcome to my website
 This site is a personal project where I showcase various aspects of my interests, skills, and ongoing projects. Here’s what you can expect to find:
 Cybersecurity Blog: Insights, tips, and tutorials on cybersecurity practices. Home Lab: Documentation and details about my home lab setup, including the technologies I’m experimenting with. Projects: A showcase of the projects I’ve been working on, including open-source contributions and personal initiatives.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://www.obsanmuzemil.com/resume/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.obsanmuzemil.com/resume/</guid>
-      <description>Obsan Muzemil Location: Golden Valley, MN Phone: 612-963-9673 Email: obinure@gmail.com GitHub: https://github.com/OBIchance LinkedIn: https://www.linkedin.com/in/obsan-muzemil-95b876153 Summary Cybersecurity professional with CompTIA Security+ and PenTest+ certifications, graduating with a BS in Cybersecurity. Proficient in Wireshark, Nmap, Elastic Stack, Burp Suite, Hydra, and Microsoft Office. Experienced in computer security, cyber operations, and vulnerability assessment. Interned as a Cybersecurity Risk Assessor, identifying threats and reporting to public sector entities.
-Certifications CompTIA Security+ CompTIA PenTest+ Education Metropolitan State University</description>
     </item>
   </channel>
 </rss>
