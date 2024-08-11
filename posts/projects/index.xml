@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Obsan Muzemil</title>
+    <link>//localhost:1313/posts/projects/</link>
+    <description>Recent content in Projects on Obsan Muzemil</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Aug 2024 22:08:43 -0500</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cyber HomeLab</title>
+      <link>//localhost:1313/posts/projects/cyber-homelab/</link>
+      <pubDate>Fri, 09 Aug 2024 22:08:43 -0500</pubDate>
+      <guid>//localhost:1313/posts/projects/cyber-homelab/</guid>
+      <description>An overview of setting up a Cybersecurity Homelab for practice and learning.</description>
+    </item>
+  </channel>
+</rss>
