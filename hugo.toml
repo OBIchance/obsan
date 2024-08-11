@@ -79,4 +79,4 @@ theme = 'PaperMod'
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
->>>>>>> b11f6bf (Deploy site to GitHub Pages)
+
