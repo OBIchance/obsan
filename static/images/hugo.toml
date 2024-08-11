@@ -1,0 +1,82 @@
+baseURL = "https://www.obsanmuzemil.com/"
+languageCode = 'en-us'
+title = 'Obsan Muzemil'
+theme = 'PaperMod'
+
+[taxonomies]
+  project = "projects"
+  writeup = "writeups"
+
+[params]
+  enableSearch = false  # Enable search functionality
+
+ 
+  [params.profileMode]
+    enabled = true
+    title = "Hey There 👋 Welcome to  website"
+    subtitle = "*This site is a personal project where I showcase various aspects of my interests, skills, and ongoing projects.*"
+
+   imageUrl = "https://media.licdn.com/dms/image/D5635AQGA4wBLRMYRAw/profile-framedphoto-shrink_400_400/0/1718319076954?e=1723939200&v=beta&t=WQa0m4D7dvT9XuimRUz2ITT2LPi9SijC9XYQ71LLZ5Y"
+
+    imageTitle = "<title of image as alt>"
+    imageWidth = 120
+    imageHeight = 120
+    
+  
+  [[params.socialIcons]]
+    name = "Github"
+    url = "https://github.com/obsan-muzemil"
+
+  [[params.socialIcons]]
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/obsan-muzemil-95b876153/"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/posts/projects/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "write-ups"
+    name = "Write-Ups"
+    url = "/posts/write-ups/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "resume"
+    name = "resume"
+    url = "/posts/Resume/"
+    weight = 4
+
+  
+  [[menu.main]]
+    identifier = "cert"
+    name = "cert"
+    url = "/posts/cert/"
+    weight = 6
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 7
+
+  [[menu.main]]
+    identifier = "archives"
+    name = "Archives"
+    url = "/archives/"
+    weight = 8
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+

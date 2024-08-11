@@ -16,7 +16,8 @@ Cybersecurity threats are always changing, so it's important for experts to stay
 
 ## Homelab Topology
 
-![Network Diagram](/images/network-diagram.jpg)
+![HL topology](/images/HL/HL%20topology.png)
+
 
 ## Setting Up a Centralized Active Directory Environment for a Homelab
 
@@ -35,8 +36,10 @@ To create a centralized Active Directory environment, you'll need to carefully p
 ### Configuring the IP Address
 
 1. **Open the "Network and Sharing Center" and click on "Change adapter settings"**: Right-click on your network connection (Ethernet0) and select "Properties".
+![Configuring the IP Address](/images/HL/Configuring%20the%20IP%20Address.png)
 
 2. **In the "Ethernet Properties" window, select "Internet Protocol Version 4 (TCP/IPv4)" and click "Properties".**
+![Ethernet properties](/images/HL/Ethernet%20properties.png)
 
 3. **Select "Use the following IP address" and enter your desired IP address, subnet mask, default gateway, and DNS server addresses**:
 
@@ -44,11 +47,14 @@ To create a centralized Active Directory environment, you'll need to carefully p
    - Subnet Mask: 255.255.255.0
    - Default Gateway: 192.168.16.1
    - Preferred DNS Server: 8.8.8.8 (Google DNS)
+  ![static](/images/HL/static.png)
+
 
 ### Installing Updates
 
 1. Go to "Settings" -> "Update & Security" -> "Windows Update".
 2. Check for and install all available updates to ensure your server is up-to-date.
+![windows update](/images/HL/windowsupdate.png)
 
 After installing the update, restart your server. This concludes the static IP assignment for the Main PC (AD DS). The next steps would be setting up DNS and DHCP in Active Directory.
 
@@ -72,6 +78,8 @@ This is why you will have to install and set DNS and DHCP in AD to enable the wh
 
    - Open Server Manager, click Manage, and select Add Roles and Features.
    - Select Active Directory Domain Services, add required features, and proceed with the installation.
+  ![add Roles](/images/HL/add%20Roles.png)
+
    - Click the Flag icon in Server Manager and select Promote this server to a domain controller.
    - Add a new forest, enter your domain name (e.g., yourdomain.local), and complete the wizard.
 
@@ -81,19 +89,24 @@ This is why you will have to install and set DNS and DHCP in AD to enable the wh
    - Right-click on Reverse Lookup Zones and select New Zone.
    - Follow the wizard to create a new reverse lookup zone.
 
-3. **Install and Configure DHCP**
+![new zone](/images/HL/new%20zone.png)
 
+3. **Install and Configure DHCP**
+![Server Manager](/images/HL/Server%20Manger.png)
    - Open Server Manager, click Manage, and select Add Roles and Features.
    - Select DHCP Server and proceed with the installation.
    - After installation, click Complete DHCP Configuration.
    - Open DHCP Manager, right-click IPv4, and select New Scope.
    - Enter the IP range and complete the wizard.
+![DHCP](/images/HL/DHCP.png)
 
 By following these steps, you will set up a functioning Domain Controller with DNS and DHCP, ensuring efficient network management and seamless device integration.
 
 ### Testing Your Active Directory Setup and Services
 
 I wanted to check if everything worked after effectively following and completing the first configurations and setup for AD on the Windows Server 2022 VM. I first downloaded a Windows 10 Enterprise Edition virtual machine to accomplish this. I was able to achieve this after researching how I could configure Windows to acquire IP addresses from the WS-22, primary PC.
+
+![final](/images/HL/final.png)
 
 ## Summary
 

@@ -25,11 +25,12 @@ theme = 'PaperMod'
   
   [[params.socialIcons]]
     name = "Github"
-    url = "https://github.com/obsan-muzemil"
+    url = "https://github.com/OBIchance/"
 
-  [[params.socialIcons]]
+[[params.socialIcons]]
     name = "LinkedIn"
     url = "https://www.linkedin.com/in/obsan-muzemil-95b876153/"
+
 
 [menu]
 
@@ -54,7 +55,7 @@ theme = 'PaperMod'
   [[menu.main]]
     identifier = "resume"
     name = "Resume"
-    url = "/Resume/"
+    url = "/posts/Resume/"
     weight = 4
 
   
@@ -62,19 +63,19 @@ theme = 'PaperMod'
     identifier = "cert"
     name = "cert"
     url = "/posts/cert/"
-    weight = 6
+    weight = 5
 
   [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 7
+    weight = 6
 
   [[menu.main]]
     identifier = "archives"
     name = "Archives"
     url = "/archives/"
-    weight = 8
+    weight = 7
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
