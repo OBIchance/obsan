@@ -38,5 +38,9 @@ jobs:
           git add .
           git config user.name 'OBIchance'
           git config user.email 'obinrue@gmail.com'
-          git commit -m 'Updated site'
-          git push
+          if git diff-index --quiet HEAD; then
+            echo "No changes to commit"
+          else
+            git commit -m 'Updated site'
+            git push
+          fi
