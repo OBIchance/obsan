@@ -18,6 +18,13 @@ This site is a personal project where I showcase various aspects of my interests
 
 I’m Obsan, a cybersecurity enthusiast with a passion for exploring and securing digital systems. With experience in various cybersecurity tools and techniques, I’m dedicated to continuous learning and contributing to the security community.
 
+## CONTACT
+**Obsan Muzemil**  
+- 612-963-9673  
+- obinure@gmail.com   
+- [GitHub](https://github.com/obsan-muzemil)  
+- [LinkedIn](https://www.linkedin.com/in/obsan-muzemil-95b876153/)
+
 Feel free to explore the different sections of the site, and don’t hesitate to reach out if you have any questions or comments!
 
 Thank you for visiting!
