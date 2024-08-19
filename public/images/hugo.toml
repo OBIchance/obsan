@@ -1,38 +1,55 @@
-baseURL = "https://www.obsanmuzemil.com/"
-languageCode = 'en-us'
-title = 'Obsan Muzemil'
-theme = 'PaperMod'
+baseURL = "https://obsanmuzemil.com/"
+title = "Obsan Muzemil"
+paginate = 5
+theme = "PaperMod"
 
-[taxonomies]
-  project = "projects"
-  writeup = "writeups"
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[minify]
+  disableXML = true
+  minifyOutput = true
 
 [params]
-  enableSearch = false  # Enable search functionality
+  env = "production" # to enable opengraph, twitter-cards, and schema.
+  title = "Obsan Muzemil"
+  description = "Cybersecurity Professional and Blogger"
+  keywords = ["Cybersecurity", "Portfolio", "PaperMod", "Blog"]
+  author = "Obsan Muzemil"
+  DateFormat = "January 2, 2006"
+  defaultTheme = "auto" # dark, light
+  disableThemeToggle = false
 
- 
-  [params.profileMode]
-    enabled = true
-    title = "Hey There 👋 Welcome to  website"
-    subtitle = "*This site is a personal project where I showcase various aspects of my interests, skills, and ongoing projects.*"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = false
+  tocopen = false
 
-   imageUrl = "https://media.licdn.com/dms/image/D5635AQGA4wBLRMYRAw/profile-framedphoto-shrink_400_400/0/1718319076954?e=1723939200&v=beta&t=WQa0m4D7dvT9XuimRUz2ITT2LPi9SijC9XYQ71LLZ5Y"
+  [params.homeInfoParams]
+    Title = "Hi there 👋"
+    Content = "Welcome to my website where I share my journey in cybersecurity and technology."
 
-    imageTitle = "<title of image as alt>"
-    imageWidth = 120
-    imageHeight = 120
-    
-  
   [[params.socialIcons]]
-    name = "Github"
-    url = "https://github.com/obsan-muzemil"
+    name = "github"
+    url = "https://github.com/OBIchance"
 
   [[params.socialIcons]]
     name = "LinkedIn"
     url = "https://www.linkedin.com/in/obsan-muzemil-95b876153/"
 
 [menu]
-
   [[menu.main]]
     identifier = "home"
     name = "Home"
@@ -42,41 +59,47 @@ theme = 'PaperMod'
   [[menu.main]]
     identifier = "projects"
     name = "Projects"
-    url = "/posts/projects/"
-    weight = 2
+    url = "/projects/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories/"
+    weight = 45
+
+  [[menu.main]]
+    identifier = "archive"
+    name = "archive"
+    url = "/archives/"
+    weight = 25
+
+  [[menu.main]]
+    identifier = "resume"
+    name = "Resume"
+    url = "/resume/"
+    weight = 20
 
   [[menu.main]]
     identifier = "write-ups"
     name = "Write-Ups"
     url = "/posts/write-ups/"
-    weight = 3
-
-  [[menu.main]]
-    identifier = "resume"
-    name = "resume"
-    url = "/posts/Resume/"
-    weight = 4
-
-  
-  [[menu.main]]
-    identifier = "cert"
-    name = "cert"
-    url = "/posts/cert/"
-    weight = 6
+    weight = 35
 
   [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 7
+    weight = 40
 
-  [[menu.main]]
-    identifier = "archives"
-    name = "Archives"
-    url = "/archives/"
-    weight = 8
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses = true
 
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
-
-
+[markup]
+  [markup.highlight]
+    noClasses = false
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = true
+    lineNos = true
+    style = "monokai"
