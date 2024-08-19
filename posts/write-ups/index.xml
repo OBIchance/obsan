@@ -6,8 +6,15 @@
     <description>Recent content in Writeups on Obsan Muzemil</description>
     <generator>Hugo -- 0.112.4</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Aug 2024 19:47:07 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 22:08:43 -0500</lastBuildDate>
     <atom:link href="https://obsanmuzemil.com/posts/write-ups/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cyber HomeLab</title>
+      <link>https://obsanmuzemil.com/posts/write-ups/cyber-homelab/</link>
+      <pubDate>Fri, 09 Aug 2024 22:08:43 -0500</pubDate>
+      <guid>https://obsanmuzemil.com/posts/write-ups/cyber-homelab/</guid>
+      <description>An overview of setting up a Cybersecurity Homelab for practice and learning.</description>
+    </item>
     <item>
       <title>Htb</title>
       <link>https://obsanmuzemil.com/posts/write-ups/htb/</link>
