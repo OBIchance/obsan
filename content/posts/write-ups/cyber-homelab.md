@@ -7,6 +7,8 @@ updated = "2024-08-09"
 summary = "An overview of setting up a Cybersecurity Homelab for practice and learning."
 tags = ["homelab", "cybersecurity"]
 categories = ["Projects"]
+toc = false           # Enable TOC for this specific page
+toc_open = true  
 
 +++
 

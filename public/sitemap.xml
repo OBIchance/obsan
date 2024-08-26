@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://obsanmuzemil.com/</loc>
+    <lastmod>2024-08-25T16:38:18-05:00</lastmod>
+  </url><url>
+    <loc>https://obsanmuzemil.com/posts/</loc>
+    <lastmod>2024-08-25T16:38:18-05:00</lastmod>
+  </url><url>
+    <loc>https://obsanmuzemil.com/posts/write-ups/reaper/</loc>
+    <lastmod>2024-08-25T16:38:18-05:00</lastmod>
+  </url><url>
+    <loc>https://obsanmuzemil.com/posts/write-ups/</loc>
+    <lastmod>2024-08-25T16:38:18-05:00</lastmod>
+  </url><url>
     <loc>https://obsanmuzemil.com/resume/</loc>
     <lastmod>2024-08-12T10:20:39-05:00</lastmod>
   </url><url>
@@ -11,6 +23,9 @@
     <loc>https://obsanmuzemil.com/categories/</loc>
     <lastmod>2024-08-09T22:08:43-05:00</lastmod>
   </url><url>
+    <loc>https://obsanmuzemil.com/posts/write-ups/cyber-homelab/</loc>
+    <lastmod>2024-08-09T22:08:43-05:00</lastmod>
+  </url><url>
     <loc>https://obsanmuzemil.com/projects/cyber-homelab/</loc>
     <lastmod>2024-08-09T22:08:43-05:00</lastmod>
   </url><url>
@@ -18,9 +33,6 @@
     <lastmod>2024-08-09T22:08:43-05:00</lastmod>
   </url><url>
     <loc>https://obsanmuzemil.com/tags/homelab/</loc>
-    <lastmod>2024-08-09T22:08:43-05:00</lastmod>
-  </url><url>
-    <loc>https://obsanmuzemil.com/</loc>
     <lastmod>2024-08-09T22:08:43-05:00</lastmod>
   </url><url>
     <loc>https://obsanmuzemil.com/categories/projects/</loc>
@@ -33,12 +45,6 @@
     <lastmod>2024-08-09T22:08:43-05:00</lastmod>
   </url><url>
     <loc>https://obsanmuzemil.com/posts/write-ups/htb/</loc>
-    <lastmod>2024-08-09T19:47:07-05:00</lastmod>
-  </url><url>
-    <loc>https://obsanmuzemil.com/posts/</loc>
-    <lastmod>2024-08-09T19:47:07-05:00</lastmod>
-  </url><url>
-    <loc>https://obsanmuzemil.com/posts/write-ups/</loc>
     <lastmod>2024-08-09T19:47:07-05:00</lastmod>
   </url><url>
     <loc>https://obsanmuzemil.com/posts/welcome/</loc>

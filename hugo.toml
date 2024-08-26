@@ -30,17 +30,29 @@ buildExpired = false
   ShowWordCount = true
   ShowRssButtonInSectionTermList = true
   UseHugoToc = true
-  disableSpecial1stPost = false
-  disableScrollToTop = false
+  disableSpecial1stPost = true
+  disableScrollToTop = true
   hidemeta = false
-  hideSummary = false
-  showtoc = false
-  tocopen = false
+  hideSummary = true
+  showtoc = true
+  tocopen = true
 
   [params.homeInfoParams]
     Title = "Hi there 👋"
     Content = "Welcome to my website where I share my journey in cybersecurity and technology."
 
+ [params.profileMode]
+  enabled = true
+  title = "Obsan Muzemil"
+  subtitle = "Cybersecurity Enthusiast and Developer"
+  imageUrl = "/images/ObsanProfile.jpg"  # Ensure this path is correct and accessible
+  imageTitle = "Profile Picture"
+  imageWidth = 120
+  imageHeight = 120
+
+  [[params.profileMode.buttons]]
+    name = "Archive"
+    url = "/archives/"
   [[params.socialIcons]]
     name = "github"
     url = "https://github.com/OBIchance"
@@ -70,7 +82,7 @@ buildExpired = false
 
   [[menu.main]]
     identifier = "archive"
-    name = "archive"
+    name = "Archive"
     url = "/archives/"
     weight = 25
 

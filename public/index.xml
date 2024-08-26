@@ -6,8 +6,16 @@
     <description>Recent content on Obsan Muzemil</description>
     <generator>Hugo -- 0.112.4</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Aug 2024 10:20:39 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 25 Aug 2024 16:38:18 -0500</lastBuildDate>
     <atom:link href="https://obsanmuzemil.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reaper</title>
+      <link>https://obsanmuzemil.com/posts/write-ups/reaper/</link>
+      <pubDate>Sun, 25 Aug 2024 16:38:18 -0500</pubDate>
+      <guid>https://obsanmuzemil.com/posts/write-ups/reaper/</guid>
+      <description>Reaper Write-Up Scenario Overview For this Hack the Box challenge, we are given the Sherlock Scenario:
+Our SIEM alerted us to a suspicious logon event that needs to be looked at immediately. The alert details were that the IP Address and the Source Workstation name were a mismatch. You are provided with a network capture and event logs from the time surrounding the incident. Correlate the given evidence and report back to your SOC Manager.</description>
+    </item>
     <item>
       <title>Resume</title>
       <link>https://obsanmuzemil.com/resume/</link>
@@ -26,6 +34,13 @@ Courses: Network, Cryptography, Information security, Cyber Operations, Vulnerab
       <description>Hello and welcome to my website!
 This site is a personal project where I showcase various aspects of my interests, skills, and ongoing projects. Here’s what you can expect to find:
 Cybersecurity Blog: Insights, tips, and tutorials on cybersecurity practices. Home Lab: Documentation and details about my home lab setup, including the technologies I’m experimenting with. Projects: A showcase of the projects I’ve been working on, including open-source contributions and personal initiatives.</description>
+    </item>
+    <item>
+      <title>Cyber HomeLab</title>
+      <link>https://obsanmuzemil.com/posts/write-ups/cyber-homelab/</link>
+      <pubDate>Fri, 09 Aug 2024 22:08:43 -0500</pubDate>
+      <guid>https://obsanmuzemil.com/posts/write-ups/cyber-homelab/</guid>
+      <description>An overview of setting up a Cybersecurity Homelab for practice and learning.</description>
     </item>
     <item>
       <title>Cyber HomeLab</title>

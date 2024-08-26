@@ -10,6 +10,13 @@
     <atom:link href="https://obsanmuzemil.com/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cyber HomeLab</title>
+      <link>https://obsanmuzemil.com/posts/write-ups/cyber-homelab/</link>
+      <pubDate>Fri, 09 Aug 2024 22:08:43 -0500</pubDate>
+      <guid>https://obsanmuzemil.com/posts/write-ups/cyber-homelab/</guid>
+      <description>An overview of setting up a Cybersecurity Homelab for practice and learning.</description>
+    </item>
+    <item>
+      <title>Cyber HomeLab</title>
       <link>https://obsanmuzemil.com/projects/cyber-homelab/</link>
       <pubDate>Fri, 09 Aug 2024 22:08:43 -0500</pubDate>
       <guid>https://obsanmuzemil.com/projects/cyber-homelab/</guid>
