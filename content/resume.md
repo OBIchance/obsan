@@ -8,63 +8,76 @@ updated = 2024-08-12
 
 
 
-# SUMMARY
-Cybersecurity professional with CompTIA Security+ and PenTest+ certifications, graduating with a BS in Cybersecurity. Proficient in Wireshark, Nmap, Elastic Stack, Burp Suite, Hydra, and Microsoft Office. Experienced in computer security, cyber operations, and vulnerability assessment. Interned as a Cybersecurity Risk Assessor, identifying threats and reporting to public sector entities.
+# Obsan Muzemil
+**Phone:** +1 612 963 9673  
+**Email:** obinure@gmail.com  
+**Location:** MN  
+**LinkedIn:** [OBIchance](https://linkedin.com/in/OBIchance)  
+**Website:** [My Website](https://obsanmuzemil.com)  
 
-### CERTIFICATIONS
-- CompTIA Security+
-- CompTIA PenTest+
+---
 
-### EDUCATION
-**Metropolitan State University** -  
-**Bachelor of Science: Cybersecurity** | GPA 3.7 cum laude  
-*Courses: Network, Cryptography, Information security, Cyber Operations, Vulnerability assessment, Operating Systems*
+## Summary
+IT professional with hands-on experience in networking, system administration, and cybersecurity. Certified in CompTIA Security+ and PenTest+, with practical skills in configuring and troubleshooting network devices, managing Active Directory, and performing vulnerability assessments. Proficient in tools like Wireshark, Nmap, and VMware, with a passion for building and securing enterprise networks.
 
-## PROFESSIONAL EXPERIENCE
+---
 
-### Cybersecurity Risk Assessor Intern  
-**Metro State Cybersecurity/ MN IT** | Saint Paul, MN  
-*Aug '22 - Aug '24*  
-- Collaborated with fellow interns, faculty, and MN IT personnel to explore security needs and concerns, leading discussions and delivering presentations that heightened security awareness for the public entity.
-- Evaluated the security posture of IT environments for two public entities, identifying potential vulnerabilities and threats.
-- Crafted detailed security reports describing identified vulnerabilities and potential risks, referencing NIST and CIS safeguards as benchmarks, with a focus on Manual Asset Management and Lack of Formal Procedures.
-- Recommended advanced firewall protocols, data encryption, security audits, MFA, SIEM solutions, automated patch management, user training programs, and incident response plans that align with CIS IG1 and NIST.
+## Certifications
+- **CompTIA Security+**  
+- **CompTIA PenTest+**  
 
-### Cyber Security Career Challenge Intern  
-**NcYTE** | Remote  
-*Jan '24 - May '24*  
-- Led the deployment, setup, customization, and maintenance of a Thunderbird email server, researching and implementing secure, client-serving free email server technology.
-- Implemented MySQL-based database management systems and software for the project, overcoming resource constraints by leveraging open-source solutions.
+---
 
-### Collegiate Cyber Defense Competition (CCDC)  
-*Feb '24 - May '24*  
-- Successfully prevented over 95% of brute-force attacks, malware infections, unauthorized network access, vulnerability exploits, and phishing attacks. Ensured security, prevented data breaches, and mitigated cyber threats, reducing potential security incidents by 80%.
-- Utilized Fail2ban, ClamAV, iptables, and OpenVAS to make an e-commerce setting safer during the CCDC, leading to a significant decrease in system vulnerabilities. Tracked, eradicated, and documented cyber incidents from initial detection through final resolution while defending.
+## Projects
+### Student Management System | C  
+- Developed a C-based Student Management System with features for adding, removing, modifying, and displaying student records.  
+- Utilized GCC for compilation and Git/GitHub for version control.  
 
-## PROJECTS
-**Student Management System** | C  
-Developed a C-based Student Management System with features for adding, removing, modifying, and displaying student records, utilizing GCC for compilation and Git/GitHub for version control.
+### Cybersecurity Homelab | VMware Workstation  
+- Developed a cybersecurity homelab simulating a commercial network with a centralized Active Directory.  
+- Configured and tested DNS/DHCP on Windows Server 2022.  
+- Integrated Windows/Linux VMs and conducted security tests to enhance network management skills.  
 
-## KEY SKILLS
-- Technical Support
-- Wireshark
-- Nmap
-- Elastic Stack
-- Burp Suite
-- Hydra
-- Microsoft Office
-- Port & Vulnerability Scans
-- C, Python
-- Windows, Linux
+---
 
-## CONTACT
-**Obsan Muzemil**  
-- 612-963-9673  
-- obinure@gmail.com  
-- Golden Valley, MN  
-- [GitHub](https://github.com/obsan-muzemil)  
-- [LinkedIn](https://www.linkedin.com/in/obsan-muzemil-95b876153/)
+## Skills
+- **Technical Support:** ServiceNow, Jira Service Management, Zendesk, Freshdesk  
+- **Security Tools:** Wireshark, Nmap, Elastic Stack, Burp Suite, Hydra  
+- **Programming and OS:** C, Python, Windows, Linux, Active Directory  
+- **Office Software:** Microsoft Office  
 
+---
+
+## Professional Experience
+### Metropolitan State University | IT Risk Analyst  
+*Saint Paul, MN (Jan '24 - May '24)*  
+- Collaborated with IT personnel and interns to assess security needs and deliver to stakeholders to improve awareness.  
+- Evaluated the security posture of public entities, identifying vulnerabilities and recommending mitigation strategies.  
+- Authored reports based on NIST and CIS controls, focusing on asset management and incident response procedures.  
+- Contributed to identifying IT security risks, documenting findings, and recommending solutions.  
+- Assisted with network troubleshooting, user account management, and technical support for over 200 users.  
+
+### NCyTE | Help Desk Technician (Intern)  
+*Virtual (Feb '24 - May '24)*  
+- Managed the setup, customization, and troubleshooting of a secure email server using Thunderbird.  
+- Provided remote technical support to users for software installations and email connectivity issues.  
+- Maintained a MySQL database for project management, troubleshooting server issues when needed.  
+
+### CCDC Team Member | Systems Administrator  
+*Aug '24 - Feb '24*  
+- Monitored and secured IT systems, preventing over 95% of attacks, including phishing and malware.  
+- Hardened systems using Fail2ban, ClamAV, and iptables, reducing vulnerabilities by 80%.  
+- Managed network services and resolved incidents in real-time during competition.  
+
+---
+
+## Education
+**Bachelor of Science in Cybersecurity**  
+*Metropolitan State University (Aug '22 - Aug '24)*  
+**GPA:** 3.7 | **Cum Laude**  
+**Core Modules:** Network Security, Information Security, Operating Systems, Database Administration, Cyber Operations, Incident Response  
+
+---
 
 ### CompTIA Security+ ce Certification
 

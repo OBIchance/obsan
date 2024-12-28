@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blue on Obsan Muzemil</title>
+    <link>https://obsanmuzemil.com/categories/blue/</link>
+    <description>Recent content in Blue on Obsan Muzemil</description>
+    <generator>Hugo -- 0.112.4</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 25 Aug 2024 16:38:18 -0500</lastBuildDate>
+    <atom:link href="https://obsanmuzemil.com/categories/blue/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reaper</title>
+      <link>https://obsanmuzemil.com/posts/write-ups/reaper/</link>
+      <pubDate>Sun, 25 Aug 2024 16:38:18 -0500</pubDate>
+      <guid>https://obsanmuzemil.com/posts/write-ups/reaper/</guid>
+      <description>Reaper Write-Up Scenario Overview For this Hack the Box challenge, we are given the Sherlock Scenario:
+Our SIEM alerted us to a suspicious logon event that needs to be looked at immediately. The alert details were that the IP Address and the Source Workstation name were a mismatch. You are provided with a network capture and event logs from the time surrounding the incident. Correlate the given evidence and report back to your SOC Manager.</description>
+    </item>
+  </channel>
+</rss>
