@@ -130,7 +130,7 @@ To make sure everything worked, I submitted and resolved sample tickets. This he
 ![Sample Ticket Submission](/images/Ticket/vmware_A3BNqXsyMk.gif)  
 
 ## Resolving tickets
-Resolving tickets submited by users I was able to confirm that this works. 
+Resolving tickets submited by users I was able to confirm that this works.
 ![Sample Ticket ](/images/Ticket/vmware_aw5QpimRT2.gif)  
 
 
