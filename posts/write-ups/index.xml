@@ -6,8 +6,15 @@
     <description>Recent content in Writeups on Obsan Muzemil</description>
     <generator>Hugo -- 0.112.4</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Aug 2024 16:38:18 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2024 22:08:43 -0500</lastBuildDate>
     <atom:link href="https://obsanmuzemil.com/posts/write-ups/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IT Ticketing System Setup and Management</title>
+      <link>https://obsanmuzemil.com/posts/write-ups/ticketing-system/</link>
+      <pubDate>Sat, 28 Dec 2024 22:08:43 -0500</pubDate>
+      <guid>https://obsanmuzemil.com/posts/write-ups/ticketing-system/</guid>
+      <description>A walkthrough of setting up and configuring osTicket to manage IT support requests.</description>
+    </item>
     <item>
       <title>Reaper</title>
       <link>https://obsanmuzemil.com/posts/write-ups/reaper/</link>
