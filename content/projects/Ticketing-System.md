@@ -1,5 +1,5 @@
 +++
-title = "Ticketing System Setup and Management"
+title = "IT Ticketing System Setup and Management"
 date = "2024-12-28T22:08:43-05:00"
 draft = false
 author = "Obsan Muzemil"
@@ -101,12 +101,14 @@ EXIT;
 
 ## Web Setup and Configuration
 I accessed the osTicket setup by going to this address in my browser:
+![osTicket Setup Wizard](/images/Ticket/Screenshot-2024-12-28-201538.png)  
+
 ```
 http://<vm_ip>/osticket/setup/
 ```
 From there, I created departments, help topics, and user roles.  
 
-![osTicket Setup Wizard](/images/Ticket/Screenshot-2024-12-28-201538.png)  
+![osTicket ](/images/Ticket/osTIcket.png)  
 
 ### Fixing Missing Configuration File
 During the setup, osTicket couldn’t find `ost-config.php`. I fixed this by adjusting the permissions and copying the configuration file:
@@ -123,9 +125,14 @@ sudo systemctl restart apache2
 ---
 
 ## Testing the System
-To make sure everything worked, I submitted and resolved sample tickets. This helped me confirm the system was running smoothly and allowed me to troubleshoot any issues that popped up.  
+I verified the system by submitting and resolving sample tickets, ensuring all functionalities like email notifications, ticket assignments, and user role permissions worked as expected. This confirmed that the osTicket installation was fully operational.
 
 ![Sample Ticket Submission](/images/Ticket/vmware_A3BNqXsyMk.gif)  
+
+![Sample Ticket ](/images/Ticket/vmware_aw5QpimRT2.gif)  
+
+
+
 
 
 

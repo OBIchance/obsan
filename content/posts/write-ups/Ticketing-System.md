@@ -125,13 +125,14 @@ sudo systemctl restart apache2
 ---
 
 ## Testing the System
-To make sure everything worked, I submitted and resolved sample tickets. This helped me confirm the system was running smoothly and allowed me to troubleshoot any issues that popped up.  
+I verified the system by submitting and resolving sample tickets, ensuring all functionalities like email notifications, ticket assignments, and user role permissions worked as expected. This confirmed that the osTicket installation was fully operational.
 
 ![Sample Ticket Submission](/images/Ticket/vmware_A3BNqXsyMk.gif)  
 
-## Resolving tickets
-Resolving tickets submited by users I was able to confirm that this works.
 ![Sample Ticket ](/images/Ticket/vmware_aw5QpimRT2.gif)  
+
+
+
 
 
 
