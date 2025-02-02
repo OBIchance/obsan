@@ -6,8 +6,17 @@
     <description>Recent content in cybersecurity on Obsan Muzemil</description>
     <generator>Hugo -- 0.112.4</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Jan 2025 14:30:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 20:40:16 -0600</lastBuildDate>
     <atom:link href="https://obsanmuzemil.com/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Information Gathering Web Edition</title>
+      <link>https://obsanmuzemil.com/posts/write-ups/information-gathering-web-edition/</link>
+      <pubDate>Sat, 01 Feb 2025 20:40:16 -0600</pubDate>
+      <guid>https://obsanmuzemil.com/posts/write-ups/information-gathering-web-edition/</guid>
+      <description>Information Gathering - Web Edition This project was a personal skill assessment after completing the learning path on HTB. The goal is to show information gathering techniques while providing clues for others to use the process
+Reconnaissance Before we start we need to put our assinged IP address in to virtual host.
+1 nano /etc/hosts To kick off the reconnaissance phase, I started with a WHOIS lookup on inlanefreight.com to gather registrar-specific details.</description>
+    </item>
     <item>
       <title>CCDC</title>
       <link>https://obsanmuzemil.com/posts/write-ups/ccdc/</link>
