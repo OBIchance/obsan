@@ -50,7 +50,7 @@ This response indicates that the page exists but requires special permissions or
 
 ## **Step 4: Finding Accepted Parameters**
 On the restricted page, I examined the URL and tested different parameters to see what inputs the page accepts.
-![parmeter]/(images/ffuf/postParameter.png)
+![parmeter](/images/ffuf/postParameter.png)
 
 
 
