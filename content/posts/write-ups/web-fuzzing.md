@@ -1,7 +1,7 @@
 +++
 title = 'Web Fuzzing'
 date = 2025-02-16T19:47:08-06:00
-draft = true
+draft = false
 author = "Obsan Muzemil"
 updated = 2025-02-16
 +++
