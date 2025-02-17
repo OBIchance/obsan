@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://obsanmuzemil.com/</loc>
+    <lastmod>2025-02-16T19:47:08-06:00</lastmod>
+  </url><url>
+    <loc>https://obsanmuzemil.com/posts/</loc>
+    <lastmod>2025-02-16T19:47:08-06:00</lastmod>
+  </url><url>
+    <loc>https://obsanmuzemil.com/posts/write-ups/web-fuzzing/</loc>
+    <lastmod>2025-02-16T19:47:08-06:00</lastmod>
+  </url><url>
+    <loc>https://obsanmuzemil.com/posts/write-ups/</loc>
+    <lastmod>2025-02-16T19:47:08-06:00</lastmod>
+  </url><url>
     <loc>https://obsanmuzemil.com/tags/cbbh/</loc>
     <lastmod>2025-02-01T20:40:16-06:00</lastmod>
   </url><url>
@@ -11,19 +23,10 @@
     <loc>https://obsanmuzemil.com/posts/write-ups/information-gathering-web-edition/</loc>
     <lastmod>2025-02-01T20:40:16-06:00</lastmod>
   </url><url>
-    <loc>https://obsanmuzemil.com/</loc>
-    <lastmod>2025-02-01T20:40:16-06:00</lastmod>
-  </url><url>
-    <loc>https://obsanmuzemil.com/posts/</loc>
-    <lastmod>2025-02-01T20:40:16-06:00</lastmod>
-  </url><url>
     <loc>https://obsanmuzemil.com/tags/recon/</loc>
     <lastmod>2025-02-01T20:40:16-06:00</lastmod>
   </url><url>
     <loc>https://obsanmuzemil.com/tags/</loc>
-    <lastmod>2025-02-01T20:40:16-06:00</lastmod>
-  </url><url>
-    <loc>https://obsanmuzemil.com/posts/write-ups/</loc>
     <lastmod>2025-02-01T20:40:16-06:00</lastmod>
   </url><url>
     <loc>https://obsanmuzemil.com/tags/ccdc/</loc>
