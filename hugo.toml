@@ -44,7 +44,7 @@ buildExpired = false
  [params.profileMode]
   enabled = true
   title = "Obsan Muzemil"
-  subtitle = "Cybersecurity Enthusiast and Developer"
+  subtitle = "Cybersecurity Enthusiast and IT specialist"
   imageUrl = "/images/ObsanProfile.jpg"  # Ensure this path is correct and accessible
   imageTitle = "Profile Picture"
   imageWidth = 120

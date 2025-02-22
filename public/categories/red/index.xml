@@ -13,8 +13,8 @@
       <link>https://obsanmuzemil.com/posts/write-ups/javascript-deobfuscation-/</link>
       <pubDate>Tue, 18 Feb 2025 19:47:08 -0600</pubDate>
       <guid>https://obsanmuzemil.com/posts/write-ups/javascript-deobfuscation-/</guid>
-      <description>JavaScript Security Analysis and Exploitation This lab involved analyzing a website’s JavaScript code to uncover hidden information, reverse obfuscation, and extract a secret key. The key was then decoded and sent as a POST request to obtain the final flag.
-Step 1: Identifying the JavaScript File I started by inspecting the HTML source code of the webpage that was given to me. The script tag in the HTML revealed the JavaScript file: 1 &amp;lt;script src=&amp;#34;api.</description>
+      <description>JavaScript Security Analysis and Exploitation This lab involved analyzing a website’s JavaScript code to uncover hidden information, reverse obfuscation, and extract a secret key. The key was then decoded and sent as a POST request to obtain the final flag. (This lab is found on hack the box JavaScript Deobfuscation module )
+Step 1: Identifying the JavaScript File I started by inspecting the HTML source code of the webpage that was given to me.</description>
     </item>
   </channel>
 </rss>

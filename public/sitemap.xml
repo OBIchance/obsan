@@ -3,21 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://obsanmuzemil.com/categories/</loc>
-    <lastmod>2025-02-18T19:47:08-06:00</lastmod>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://obsanmuzemil.com/categories/cbbh/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://obsanmuzemil.com/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://obsanmuzemil.com/posts/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://obsanmuzemil.com/posts/write-ups/xss/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://obsanmuzemil.com/posts/write-ups/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://obsanmuzemil.com/posts/write-ups/javascript-deobfuscation-/</loc>
     <lastmod>2025-02-18T19:47:08-06:00</lastmod>
   </url><url>
-    <loc>https://obsanmuzemil.com/</loc>
-    <lastmod>2025-02-18T19:47:08-06:00</lastmod>
-  </url><url>
-    <loc>https://obsanmuzemil.com/posts/</loc>
-    <lastmod>2025-02-18T19:47:08-06:00</lastmod>
-  </url><url>
     <loc>https://obsanmuzemil.com/categories/red/</loc>
-    <lastmod>2025-02-18T19:47:08-06:00</lastmod>
-  </url><url>
-    <loc>https://obsanmuzemil.com/posts/write-ups/</loc>
     <lastmod>2025-02-18T19:47:08-06:00</lastmod>
   </url><url>
     <loc>https://obsanmuzemil.com/posts/write-ups/web-fuzzing/</loc>

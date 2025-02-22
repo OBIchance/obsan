@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CBBH on Obsan Muzemil</title>
+    <link>https://obsanmuzemil.com/categories/cbbh/</link>
+    <description>Recent content in CBBH on Obsan Muzemil</description>
+    <generator>Hugo -- 0.112.4</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://obsanmuzemil.com/categories/cbbh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web Application Security Check - XS</title>
+      <link>https://obsanmuzemil.com/posts/write-ups/xss/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://obsanmuzemil.com/posts/write-ups/xss/</guid>
+      <description>Web Application Security Check - XSS Overview This report is part of an educational lab in the XSS teaching module on Hack The Box (HTB). As part of our security check, we tested the Security Blog website for weaknesses. This report focuses on finding and testing Cross-Site Scripting (XSS) issues.
+Steps We Took 1. Finding a Weak Input Field We checked the /assessment page for input fields that could be weak.</description>
+    </item>
+  </channel>
+</rss>

@@ -11,7 +11,7 @@ Web Fuzzing
 ## **Introduction**
 In this assessment, I was given the IP address of an online academy but had no prior information about its website structure. My goal was to conduct a penetration test to find all the subdomains and pages linked to the given IP. This involved various types of fuzzing to discover hidden resources and potential vulnerabilities.
 
-
+(This lab is found hack the box fuzzing with ffuf)
 
 ## **Step 1: Finding Subdomains**
 To start, I ran a **subdomain/vhost fuzzing scan** on `*.academy.htb` using a tool like `ffuf` or `gobuster`.For this lab I will be using ffuf and  This process involved sending a list of potential subdomain names to the target and checking for responses that indicated active domains.

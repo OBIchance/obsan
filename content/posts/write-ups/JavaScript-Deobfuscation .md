@@ -11,7 +11,7 @@ updated = 2025-02-18
 ![AI](/images/java/d2428cd5-7d42-407c-af7e-d561345821b6.webp)
 
 This lab involved analyzing a website’s JavaScript code to uncover hidden information, reverse obfuscation, and extract a secret key. The key was then decoded and sent as a POST request to obtain the final flag.
-
+(This lab is found on hack the box JavaScript Deobfuscation module  )
 ## **Step 1: Identifying the JavaScript File**
 I started by inspecting the HTML source code of the webpage that was given to me. The script tag in the HTML revealed the JavaScript file:
 ![HTML](/images/java/HTML_CODE.png)

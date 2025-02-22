@@ -6,15 +6,23 @@
     <description>Recent content in Writeups on Obsan Muzemil</description>
     <generator>Hugo -- 0.112.4</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Feb 2025 19:47:08 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://obsanmuzemil.com/posts/write-ups/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web Application Security Check - XS</title>
+      <link>https://obsanmuzemil.com/posts/write-ups/xss/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://obsanmuzemil.com/posts/write-ups/xss/</guid>
+      <description>Web Application Security Check - XSS Overview This report is part of an educational lab in the XSS teaching module on Hack The Box (HTB). As part of our security check, we tested the Security Blog website for weaknesses. This report focuses on finding and testing Cross-Site Scripting (XSS) issues.
+Steps We Took 1. Finding a Weak Input Field We checked the /assessment page for input fields that could be weak.</description>
+    </item>
     <item>
       <title>JavaScript Deobfuscation</title>
       <link>https://obsanmuzemil.com/posts/write-ups/javascript-deobfuscation-/</link>
       <pubDate>Tue, 18 Feb 2025 19:47:08 -0600</pubDate>
       <guid>https://obsanmuzemil.com/posts/write-ups/javascript-deobfuscation-/</guid>
-      <description>JavaScript Security Analysis and Exploitation This lab involved analyzing a website’s JavaScript code to uncover hidden information, reverse obfuscation, and extract a secret key. The key was then decoded and sent as a POST request to obtain the final flag.
-Step 1: Identifying the JavaScript File I started by inspecting the HTML source code of the webpage that was given to me. The script tag in the HTML revealed the JavaScript file: 1 &amp;lt;script src=&amp;#34;api.</description>
+      <description>JavaScript Security Analysis and Exploitation This lab involved analyzing a website’s JavaScript code to uncover hidden information, reverse obfuscation, and extract a secret key. The key was then decoded and sent as a POST request to obtain the final flag. (This lab is found on hack the box JavaScript Deobfuscation module )
+Step 1: Identifying the JavaScript File I started by inspecting the HTML source code of the webpage that was given to me.</description>
     </item>
     <item>
       <title>Web Fuzzing</title>
@@ -23,6 +31,7 @@ Step 1: Identifying the JavaScript File I started by inspecting the HTML source 
       <guid>https://obsanmuzemil.com/posts/write-ups/web-fuzzing/</guid>
       <description>Web Fuzzing
 Introduction In this assessment, I was given the IP address of an online academy but had no prior information about its website structure. My goal was to conduct a penetration test to find all the subdomains and pages linked to the given IP. This involved various types of fuzzing to discover hidden resources and potential vulnerabilities.
+(This lab is found hack the box fuzzing with ffuf)
 Step 1: Finding Subdomains To start, I ran a subdomain/vhost fuzzing scan on *.</description>
     </item>
     <item>
